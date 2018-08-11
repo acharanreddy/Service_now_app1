@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="innovation">6cc2d9a6db731300aea164d7489619a1</application>
+        <filter/>
+        <name>innovations</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_266338_15071a05a.innovation_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-08-11 08:46:51</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>60c2d9a6db731300aea164d7489619a4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>innovations</sys_name>
+        <sys_package display_value="15071A05A4@app1" source="x_266338_15071a05a">eecdf46adb331300aea164d748961980</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="15071A05A4@app1">eecdf46adb331300aea164d748961980</sys_scope>
+        <sys_update_name>sys_ui_module_60c2d9a6db731300aea164d7489619a4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-08-11 08:46:51</sys_updated_on>
+        <table>x_266338_15071a05a_innovation</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>

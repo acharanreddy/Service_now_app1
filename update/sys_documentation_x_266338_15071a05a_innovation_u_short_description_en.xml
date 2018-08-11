@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_short_description" label="Short description" language="en" table="x_266338_15071a05a_innovation">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_short_description</element>
+            <help/>
+            <hint/>
+            <label>Short description</label>
+            <language>en</language>
+            <name>x_266338_15071a05a_innovation</name>
+            <plural>Short descriptions</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-08-11 09:32:13</sys_created_on>
+            <sys_id>8d2d916edb731300aea164d748961974</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Short description</sys_name>
+            <sys_package display_value="15071A05A4@app1" source="x_266338_15071a05a">eecdf46adb331300aea164d748961980</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="15071A05A4@app1">eecdf46adb331300aea164d748961980</sys_scope>
+            <sys_update_name>sys_documentation_x_266338_15071a05a_innovation_u_short_description_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-08-11 09:32:13</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

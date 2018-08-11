@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="New Section" section_id="852d916edb731300aea164d748961969" sys_domain="global" table="x_266338_15071a05a_innovation" version="3" view="Advanced_view">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_description</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-08-11 09:32:13</sys_created_on>
+            <sys_id>592d916edb731300aea164d74896199c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_266338_15071a05a_innovation" sys_domain="global" view="20a7596adb731300aea164d748961975">852d916edb731300aea164d748961969</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-08-11 09:32:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>New Section</caption>
+            <header>false</header>
+            <name>x_266338_15071a05a_innovation</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-08-11 09:32:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>852d916edb731300aea164d748961969</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>New Section</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="15071A05A4@app1" source="x_266338_15071a05a">eecdf46adb331300aea164d748961980</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="15071A05A4@app1">eecdf46adb331300aea164d748961980</sys_scope>
+            <sys_update_name>sys_ui_section_852d916edb731300aea164d748961969</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-08-11 09:32:13</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Advanced view" name="Advanced_view">20a7596adb731300aea164d748961975</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

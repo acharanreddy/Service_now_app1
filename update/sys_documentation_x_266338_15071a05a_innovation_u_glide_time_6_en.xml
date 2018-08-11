@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_glide_time_6" label="Updated Time" language="en" table="x_266338_15071a05a_innovation">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_glide_time_6</element>
+            <help/>
+            <hint/>
+            <label>Updated Time</label>
+            <language>en</language>
+            <name>x_266338_15071a05a_innovation</name>
+            <plural>Updated Times</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-08-11 09:40:48</sys_created_on>
+            <sys_id>cb1f15aedb731300aea164d7489619dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Updated Time</sys_name>
+            <sys_package display_value="15071A05A4@app1" source="x_266338_15071a05a">eecdf46adb331300aea164d748961980</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="15071A05A4@app1">eecdf46adb331300aea164d748961980</sys_scope>
+            <sys_update_name>sys_documentation_x_266338_15071a05a_innovation_u_glide_time_6_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-08-11 09:40:48</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

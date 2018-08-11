@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>Advanced_view</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-08-11 09:08:08</sys_created_on>
+        <sys_id>20a7596adb731300aea164d748961975</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Advanced view</sys_name>
+        <sys_package display_value="15071A05A4@app1" source="x_266338_15071a05a">eecdf46adb331300aea164d748961980</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="15071A05A4@app1">eecdf46adb331300aea164d748961980</sys_scope>
+        <sys_update_name>sys_ui_view_20a7596adb731300aea164d748961975</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-08-11 09:08:08</sys_updated_on>
+        <title>Advanced view</title>
+        <user/>
+    </sys_ui_view>
+</record_update>
